@@ -1,0 +1,19 @@
+{
+    "angelhack": {
+        "awscloudformation": {
+            "AuthRoleName": "angelhack2-angelhack-20190629153530-authRole",
+            "UnauthRoleArn": "arn:aws:iam::219810064564:role/angelhack2-angelhack-20190629153530-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::219810064564:role/angelhack2-angelhack-20190629153530-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "angelhack2-angelhack-20190629153530-deployment",
+            "UnauthRoleName": "angelhack2-angelhack-20190629153530-unauthRole",
+            "StackName": "angelhack2-angelhack-20190629153530",
+            "StackId": "arn:aws:cloudformation:us-east-2:219810064564:stack/angelhack2-angelhack-20190629153530/323d1b40-9abe-11e9-b98c-02c65bf75a14"
+        },
+        "categories": {
+            "auth": {
+                "angelhack2c4dd56d4": {}
+            }
+        }
+    }
+}

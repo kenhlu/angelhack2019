@@ -1,0 +1,23 @@
+{
+	"api": {
+		"angelhack": {
+			"service": "AppSync",
+			"providerPlugin": "awscloudformation",
+			"output": {
+				"securityType": "API_KEY"
+			}
+		}
+	},
+	"auth": {
+		"angelhack2c4dd56d4": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"storage": {
+		"angelhack": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
